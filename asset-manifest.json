@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webpro-react-cw8/static/css/main.e6c13ad2.css",
+    "main.js": "/webpro-react-cw8/static/js/main.5931584c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/webpro-react-cw8/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/webpro-react-cw8/index.html",
+    "main.e6c13ad2.css.map": "/webpro-react-cw8/static/css/main.e6c13ad2.css.map",
+    "main.5931584c.js.map": "/webpro-react-cw8/static/js/main.5931584c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/webpro-react-cw8/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5931584c.js"
+  ]
+}
